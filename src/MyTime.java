@@ -3,7 +3,6 @@ public class MyTime {
     private int minute;
     private int second;
 
-    // Конструкторы
     public MyTime() {
         this(0, 0, 0);
     }
